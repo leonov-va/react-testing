@@ -1,5 +1,33 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`TEST APP getByText, getByRole, getByPlaceholderText 1`] = `
+<input
+  placeholder="input value...."
+  type="text"
+/>
+`;
+
+exports[`TEST APP renders hello world, button, input 1`] = `
+<input
+  placeholder="input value...."
+  type="text"
+/>
+`;
+
+exports[`TEST APP renders learn hello world 1`] = `
+<input
+  placeholder="input value...."
+  type="text"
+/>
+`;
+
+exports[`TEST APP renders learn react link 1`] = `
+<input
+  placeholder="input value...."
+  type="text"
+/>
+`;
+
 exports[`renders learn react link 1`] = `
 <input
   placeholder="input value...."
